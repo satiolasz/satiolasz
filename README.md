@@ -6,7 +6,7 @@ I'm a newly minted data engineer, currently learning all I can about this fascin
   - building world class data pipelines (i'm loving James Densmore's Data Pipelines Pocket Reference)
   - writing elegant and higly performant Python code (hoping that Learn PYTHON the hard way will take me there)
   - SQL for analytics, database management and data modeling (Mode's free SQL tutorial is probably the best out there)
-  - increasing reach and impact at work, while still having loads of free time (practicing asking the right questions and listening deeply)
+  - increasing reach and impact at work (practicing asking the right questions and listening deeply at the moment)
   - cooking tasty & healthy food from scratch quickly
   - biomechanics & human movement
 
