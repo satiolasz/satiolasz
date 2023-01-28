@@ -10,7 +10,7 @@ I'm a newly minted data engineer, currently learning all I can about the data en
   - biomechanics & human movement
 
 ### ☕️ Let's chat!
-You can find me on [LinkedIn](https://www.linkedin.com/in/satiolasz/) or over [here](www.satiolasz.com) at my website.
+You can find me on [LinkedIn](https://www.linkedin.com/in/satiolasz/) or over [here](https://www.satiolasz.com) at my website.
 
 <!--
 **satiolasz/satiolasz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
