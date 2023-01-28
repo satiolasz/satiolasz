@@ -1,11 +1,12 @@
 ### Hi there 👋
 
-I'm a newly minted data engineer, currently learning all I can about the data engineering field in general and building world class data pipelines in particular. 
+I'm a newly minted data engineer, currently learning all I can about this fascinating field.
 
-📚 And since it's always useful to learn something new, or get better at something not so new, and learning is the best fun anyways, here is my current list:
-  - writing elegant and higly performant Python code
-  - SQL for database management and data modeling 
-  - increasing reach and impact at work, while still having loads of free time
+📚 And since learning is the best fun, and you may share some of my passions or have a recommendation, here is my current list:
+  - building world class data pipelines (i'm loving James Densmore's Data Pipelines Pocket Reference)
+  - writing elegant and higly performant Python code (hoping that Learn PYTHON the hard way will take me there)
+  - SQL for analytics, database management and data modeling (Mode's free SQL tutorial is probably the best out there)
+  - increasing reach and impact at work, while still having loads of free time (practicing asking the right questions and listening deeply)
   - cooking tasty & healthy food from scratch quickly
   - biomechanics & human movement
 
