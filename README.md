@@ -4,7 +4,7 @@ I'm a newly minted data engineer, currently learning all I can about this fascin
 
 📚 And since learning is the best fun, and you may share some of my passions or have a recommendation 🙏 here is my current list:
   - building world class data pipelines (i'm loving James Densmore's Data Pipelines Pocket Reference)
-  - writing elegant and highly performant Python code (hoping that Learn PYTHON the hard way will take me there)
+  - writing elegant and highly performant Python code
   - SQL for analytics and database management (Mode's free SQL tutorial is probably the best out there)
   - dbt and data modeling
   - increasing reach and impact at work (practice of the moment: asking the right questions and listening without assumptions)
