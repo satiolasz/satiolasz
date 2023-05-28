@@ -7,9 +7,9 @@ I'm a newly minted data engineer, currently learning all I can about this fascin
   - writing elegant and highly performant Python code
   - SQL for analytics and database management
   - data modeling
-  - increasing reach and impact at work (practice of the moment: asking the right questions and listening without assumptions)
-  - cooking tasty & healthy food from scratch quickly
-  - biomechanics & human movement (MovNat, Katy Bowman, Tim Shieff)
+  - increasing reach and impact at work
+  - cooking tasty & healthy food
+  - biomechanics & human movement
 
 ### ☕️ Let's chat!
 You can find me on [LinkedIn](https://www.linkedin.com/in/satiolasz/) or over [here](https://www.satiolasz.com) at my website.
