@@ -2,7 +2,7 @@
 
 As a dedicated Data Engineer, I'm spending my days diving deep into the art of building world-class data pipelines. I've got a knack for keeping things efficient and simple, and an eye for creating data systems that stand the test of time. And thanks to my passion for learning, I'm always finding new ways to up my game.
 
-#### 🛠️ My playground:
+#### My playground:
 - Data pipelines: Refining my ability to construct data pipelines that set the standard for efficiency, scalability, and reliability.
 - Python: My go-to for scripting and data wrangling tasks. I love writing clean and quick code.
 - SQL: Whether it's managing databases or optimizing performance, SQL is a big part of my toolkit.
@@ -10,10 +10,15 @@ As a dedicated Data Engineer, I'm spending my days diving deep into the art of b
 - Data security: Protecting sensitive data is always top of mind—I incorporate security measures into every step of my pipelines.
 - Beyond work, I am passionate about creating nutritious meals and enjoy deepening my understanding of biomechanics and human movement.
 
-#### 🧰 Favorite tools
-<img src="https://upload.wikimedia.org/wikipedia/commons/d/de/AirflowLogo.png" alt="airflow" height="25"/> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" height="25"/> <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" alt="pandas" height="25"/> <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" alt="aws" height="25"/> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" height="25"/> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" height="25"/>  <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="jira" height="25"/> <img src="https://www.vectorlogo.zone/logos/slack/slack-icon.svg" alt="slack" height="25"/> 
+#### Some of my favorite tools:
 
-These are just a few of the tools that help me get the job done.
+<img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white" /> <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" /> <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+<img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" />
+<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" />
+<img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" /> 
+
 
 ### ☕️ Let's chat!
 You can find me on [LinkedIn](https://www.linkedin.com/in/satiolasz/) or over [here](https://www.satiolasz.com) at my website.
