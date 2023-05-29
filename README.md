@@ -10,7 +10,7 @@ As a dedicated Data Engineer, I'm spending my days diving deep into the art of b
 - Data security: Protecting sensitive data is always top of mind—I incorporate security measures into every step of my pipelines.
 - Beyond work, I am passionate about creating nutritious meals and enjoy deepening my understanding of biomechanics and human movement.
 
-#### 🧰 Favorite Tools
+#### 🧰 Favorite tools
 AWS, Airflow, Kafka, dbt, Redshift, JIRA, Slack, Git - these are just a few of the tools that help me get the job done.
 
 ### ☕️ Let's chat!
